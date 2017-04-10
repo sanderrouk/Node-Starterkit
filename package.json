@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "JavaScript development environment via Node.js as seen on Pluralsight",
     "author": "Sander Rõuk",
+    "repository": "https://github.com/sanderrouk/Node-Starterkit",
     "license": "MIT",
     "scripts": {
         "prestart": "babel-node buildScripts/startMessage.js",
