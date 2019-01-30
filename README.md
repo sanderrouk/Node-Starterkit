@@ -1,3 +1,5 @@
+# This is definitely not up to date, using something like Create React App is much better now
+
 # Node.js boilerplate
 [![Build Status](https://travis-ci.org/sanderrouk/Node-Starterkit.svg?branch=master)](https://travis-ci.org/sanderrouk/Node-Starterkit) [![NSP Status](https://nodesecurity.io/orgs/phantomarts/projects/c0314d66-533a-4c04-87e9-ee888239e1d3/badge)](https://nodesecurity.io/orgs/phantomarts/projects/c0314d66-533a-4c04-87e9-ee888239e1d3)
 
